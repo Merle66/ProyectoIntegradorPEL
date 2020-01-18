@@ -1,3 +1,4 @@
+//Parte JULIAN DE PABLO
 #include <iostream>
 #ifndef RECTA_H
 #define RECTA_H
