@@ -1,3 +1,4 @@
+//Parte JULIAN DE PABLO
 #include <iostream>
 #include "Recta.h"
 using namespace std;
